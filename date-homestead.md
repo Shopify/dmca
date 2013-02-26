@@ -8,17 +8,16 @@ I, the undersigned, certify under penalty of perjury, that I am an agent authori
 
 I may be contacted at:
 [private]
-Tel. [private]
-Fax. [private]
 
 Addendum to Notice of Infringement: 
 Allegedly Infringing Material
 
 Name of Intellectual Property Owner: Random House, Inc. 
+
 Work: Foxfire books
 
 Website: myshopify.com
 
 Infringing material:
 
-http://homesteadingsurvivalism.myshopify.com/collections/homesteading /products/homesteading-books-literature-vol-1
+http://homesteadingsurvivalism.myshopify.com/collections/homesteading/products/homesteading-books-literature-vol-1
