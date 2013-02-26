@@ -8,7 +8,7 @@ You are registered with the U.S. Copyright Office as the Designated Service Prov
 
 1. The material which I contend belongs to me, and appears illegally on the Service is the following:
 
-“OVERDOSE” Pattern artwork
+	“OVERDOSE” Pattern artwork
 
 2. The material appears at the website addresses: 
 
@@ -26,7 +26,7 @@ You are registered with the U.S. Copyright Office as the Designated Service Prov
 
 4. My contact information is as follows:
 
-[private]
+	[private]
 
 5. I have a good faith belief that the use of the material that appears on the service is not authorized by the copyright owner, its agent, or by operation of law.
 
