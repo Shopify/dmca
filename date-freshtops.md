@@ -6,15 +6,15 @@ I am writing to you to avail myself of my rights under the Digital Millennium Co
 
 You are registered with the U.S. Copyright Office as the Designated Service Provider Agent to receive notifications of alleged Copyright infringement with respect to users of the Service for which you are the Designated Agent.
 
-#. The material which I contend belongs to me, and appears illegally on the Service is the following:
+1. The material which I contend belongs to me, and appears illegally on the Service is the following:
 
 “OVERDOSE” Pattern artwork
 
-#. The material appears at the website addresses: 
+- The material appears at the website addresses: 
 
 http://fresh-tops.com/collections/cases/products/aztec-iphone-case 
 
-#. The material appears on my Web site at these addresses: 
+- The material appears on my Web site at these addresses: 
 
 http://society6.com/beegreen/OVERDOSE-UCc_Print 
 
@@ -24,13 +24,13 @@ http://www.curioos.com/shop/product/overdose http://app.medgestore.com/stylelib/
 
 http://www.createandcase.com/artist-gallery/357-overdose.html
 
-#. My contact information is as follows:
+- My contact information is as follows:
 
 [private]
 
-#. I have a good faith belief that the use of the material that appears on the service is not authorized by the copyright owner, its agent, or by operation of law.
+- I have a good faith belief that the use of the material that appears on the service is not authorized by the copyright owner, its agent, or by operation of law.
 
-#. The information in this notice is accurate, and I am either the copyright owner or I am authorized to act on behalf of the copyright owner.
+- The information in this notice is accurate, and I am either the copyright owner or I am authorized to act on behalf of the copyright owner.
 
 I declare under the perjury laws of the United States of America that this notification is true and correct.
 
