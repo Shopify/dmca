@@ -22,6 +22,7 @@ Photos were copied onto your servers without permission. The original photos, to
 
 The unauthorized and infringing copies can be found at:
 
+
 1.     http://cdn.shopify.com/s/files/1/0153/3399/products/navy_blue_nato_strap_band_on_breitling_pilot_watch_1024x1024.jpg
 
 2.  http://cdn.shopify.com/s/files/1/0153/3399/products/Black_white_blue_and_red_nato_watch_strap_band_1024x1024.jpg
