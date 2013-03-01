@@ -50,7 +50,7 @@ http://cdn.shopify.com/s/files/1/0165/3080/products/51jttsochsl._sl500_aa300_med
 
 http://cdn.shopify.com/s/files/1/0165/3080/products/51jttsochsl._sl500_aa300_thumb.jpg?652 
 
-ttp://cdn.shopify.com/s/files/1/0165/3080/products/51jttsochsl._sl500_aa300.jpg?652 
+http://cdn.shopify.com/s/files/1/0165/3080/products/51jttsochsl._sl500_aa300.jpg?652 
 
 http://cdn.shopify.com/s/files/1/0165/3080/products/trx_training_bundle_1068x600_300dpi_medium.jpg?652
 
@@ -62,23 +62,26 @@ The statutorily required information regarding this infringement is as follows:
 
 3. The text and photographs appearing on the URLs listed above are unauthorized copies of Fitness Anywhere’s copyright content appearing on its current and former websites, including at the following URLs:
 
-http://www.trxtraining.com 
+	http://www.trxtraining.com 
 
-http://www.trxtraining.com/products/trx-force-kit-tactical/?elc_term=force&elc-category=Shop 
+	http://www.trxtraining.com/products/trx-force-kit-tactical/?elc_term=force&elc-category=Shop 
 
-http://www.trxtraining.com/products/trx-essentials-strength?elc_term=essentials&elc-category=Shop 
+	http://www.trxtraining.com/products/trx-essentials-strength?elc_term=essentials&elc-category=Shop 
 
-http://www.trxtraining.com/products/trx-performance-train-like-the-pros?elc_term=train like the
-pros&elc-category=Shop 
+	http://www.trxtraining.com/products/trx-performance-train-like-the-pros?elc_term=trainlikethepros&elc-category=Shop 
 
-http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-pro-kit-1125x633-111007.jpg 
+	http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-pro-kit-1125x633-111007.jpg 
 
-http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-702x395-dvd-essentials-strength.jpg 
+	http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-702x395-dvd-essentials-strength.jpg 
 
-http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-702x395-dvd-healthy-back.jpg http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-702x395-dvd-essentials-cardio-circuit.jpg 
+	http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-702x395-dvd-healthy-back.jpg 
 
-http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-702x395-dvd-performance-train-like-
-pros.jpg http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-force_kit_1125x633_111007.jpg
+	http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-702x395-dvd-essentials-cardio-circuit.jpg 
+
+	http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-702x395-dvd-performance-train-like-
+pros.jpg 
+	
+	http://d2u87c81gtccfy.cloudfront.net/images/shared/shop-force_kit_1125x633_111007.jpg
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 4. In addition to the copyrights asserted herein, note that Fitness Anywhere is also the owner of trademarks and registered trademarks, including TRX (CIPO Reg. No. TMA726445, USPTO Reg. No. 3384871, 3202696), FITNESS ANYWHERE (CIPO Reg. No. TMA725248, USPTO Reg. No. 4103996, 2975844), and SUSPENSION TRAINING (CIPO Reg. No. TMA726444, USPTO: Reg. No. 3255160, 3255161). Said trademarks are registered in multiple classes, including for manually operated exercise devices and instructional services related thereto. Fitness Anywhere is also the owner of United States Patent No. 7044896, “Exercise Device Including Adjustable Straps,” which patents are infringed through the sale of counterfeits through the Shopify API.
 
