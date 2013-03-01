@@ -29,7 +29,7 @@ Vaporium: http://www.shop.vaporium.ca/pages/termes-et-conditions-terms-and-condi
 
 Those are the original page from Vaporium inc.  and they are online since 2010
 
-2.	These exclusive right are being violated by WWW.VAPODEPOT.CA
+- These exclusive right are being violated by WWW.VAPODEPOT.CA
 Here is the URL you need to see infringing material.
 
 VapoDépot :  http://vapodepot.ca/collections/e-cigarettes-joyetech
@@ -54,8 +54,7 @@ Vapotdépot : http://vapodepot.ca/pages/liens-links
 
 Vapodépot : http://vapodepot.ca/pages/termes-et-conditions-terms-and-conditions
 
-
-3. I have a good faith belief that the use of this material in such a fashion is not authorized by the copyright holder, the copyright holder's agent, or the law;
+- I have a good faith belief that the use of this material in such a fashion is not authorized by the copyright holder, the copyright holder's agent, or the law;
 
 Under penalty of perjury in a United States court of law, I state that the information contained in this notification is accurate, and that I am authorized to act on the behalf of the exclusive rights holder for the material in question;
 
